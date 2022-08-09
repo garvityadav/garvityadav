@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garvityadav.
-- 👀 I’m interested in gaining experience in various technologies, and also gaming :).
+- 👀 I’m interested in gaining experience in various technologies.
 - 🌱 I’m currently learning Backend Development.
 
 <!---
